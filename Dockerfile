@@ -12,3 +12,4 @@ RUN npx @11ty/eleventy
 
 FROM nginx:1.27-alpine
 COPY --from=build /src/_site /usr/share/nginx/html
+COPY docker/nginx-default.conf /etc/nginx/conf.d/default.conf
