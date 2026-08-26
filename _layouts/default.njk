@@ -25,6 +25,10 @@
   <meta name="twitter:title" content="{{ title }}">
   <meta name="twitter:description" content="{{ description }}">
   <meta name="twitter:image" content="{{ og_image if og_image else 'https://cryptozing.app/og-preview.png' }}">
+  {# Analytics: cookieless page counts, marketing pages only.
+     Skipped on noindex pages so staging drafts stay out of the stats.
+     Disclosed in the Privacy Policy, Sections 2 and 7. #}
+  {% if not noindex %}<script defer src="https://cloud.umami.is/script.js" data-website-id="6bdde495-6c7b-4f94-9fed-d81a6da9b8c0"></script>{% endif %}
   <link rel="preconnect" href="https://fonts.bunny.net">
   <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600,700" rel="stylesheet">
   <style>
