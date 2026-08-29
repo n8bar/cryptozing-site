@@ -43,7 +43,7 @@ Hosting tells you who runs the software. Custody tells you who controls the Bitc
 
 One noncustodial approach is watch-only software. It uses wallet data such as an xpub to generate receiving addresses and track payments, but it does not have the private keys needed to spend Bitcoin.
 
-<!-- Under review -->
+<!-- Approved -->
 
 ## The responsibility tradeoff
 
