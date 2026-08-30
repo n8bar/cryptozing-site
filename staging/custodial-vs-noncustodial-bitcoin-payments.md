@@ -65,22 +65,11 @@ A Bitcoin transaction is not reversed like a card chargeback. A custodian may ad
 - Noncustodial may fit when direct control matters and you are ready to protect access yourself.
 - The answer can change with the amount, purpose, and experience.
 
-<!-- Under review -->
+<!-- Keep for now; revisit during full-outline review. -->
 
 ## Close
 
-- Ask who can move the money after the customer pays.
-- One restrained CryptoZing sentence: it tracks invoices using watch-only wallet information while payments go directly to the invoice issuer's wallet.
-
-<!-- Questions below have not been reviewed yet. -->
-
-## Questions to ask before choosing
-
-- Does the payment land directly in my wallet?
-- Do I need to request a withdrawal?
-- Can the institution freeze or limit the balance?
-- Who controls the private keys?
-- What happens if I lose access?
-- How will I convert to dollars, if I need to?
+- Return to one practical test: after the customer pays, can I move the Bitcoin without an institution's permission?
+- One CryptoZing sentence: it tracks invoices without taking custody; customers pay your wallet, not CryptoZing.
 
 <!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
