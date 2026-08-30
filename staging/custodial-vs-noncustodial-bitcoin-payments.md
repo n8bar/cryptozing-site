@@ -51,11 +51,13 @@ One noncustodial approach is watch-only software. It uses wallet data such as an
 - Noncustodial: control access yourself and accept the risks of security, recovery, and mistakes.
 - Encourage self-custody when someone is ready, starting with stakes they can afford—not as a purity test.
 
-<!-- Sections below have not been reviewed yet. -->
+<!-- Approved -->
 
 ## Refunds and disputes
 
 A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes.
+
+<!-- Sections below have not been reviewed yet. -->
 
 ## Questions to ask before choosing
 
