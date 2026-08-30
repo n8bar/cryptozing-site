@@ -57,7 +57,22 @@ One noncustodial approach is watch-only software. It uses wallet data such as an
 
 A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes.
 
-<!-- Sections below have not been reviewed yet. -->
+<!-- Approved -->
+
+## Which one fits right now?
+
+- Custodial may fit when support, account recovery, or built-in conversion matters more than direct control.
+- Noncustodial may fit when direct control matters and you are ready to protect access yourself.
+- The answer can change with the amount, purpose, and experience.
+
+<!-- Under review -->
+
+## Close
+
+- Ask who can move the money after the customer pays.
+- One restrained CryptoZing sentence: it tracks invoices using watch-only wallet information while payments go directly to the invoice issuer's wallet.
+
+<!-- Questions below have not been reviewed yet. -->
 
 ## Questions to ask before choosing
 
@@ -67,16 +82,5 @@ A Bitcoin transaction is not reversed like a card chargeback. A custodian may ad
 - Who controls the private keys?
 - What happens if I lose access?
 - How will I convert to dollars, if I need to?
-
-## Which one should you use?
-
-- Custodial can make sense when conversion, recovery, and managed support matter most.
-- Noncustodial makes sense when you want direct settlement and are prepared to manage a wallet.
-- No purity test.
-
-## Close
-
-- Ask who can move the money after the customer pays.
-- One restrained CryptoZing sentence: it tracks invoices using watch-only wallet information while payments go directly to the invoice issuer's wallet.
 
 <!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
