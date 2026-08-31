@@ -9,41 +9,23 @@ date: 2026-08-28
 
 <!-- Working outline. We are reviewing one section at a time. -->
 
-<!-- Approved -->
-
 So, you received some Bitcoin. Or did you?
-
-<!-- Approved -->
 
 ## Custody is about control
 
 Custodial: a company receives and controls the Bitcoin for you. Noncustodial: it goes directly to a wallet you control.
 
-<!-- Approved -->
-
 ## How custodial payments work
 
 An institution receives and controls the Bitcoin on your behalf, like a bank. It may allow withdrawals, hold the Bitcoin, convert it, or pay out its value another way.
-
-<!-- Approved -->
 
 ## How noncustodial payments work
 
 The customer sends Bitcoin to a wallet you control. A service may create and track the payment request, but there is no institutional balance waiting for you to withdraw.
 
-<!-- Approved -->
+## A service can help without taking custody
 
-## Hosting is not custody
-
-Hosting tells you who runs the software. Custody tells you who controls the Bitcoin. One does not answer the other.
-
-<!-- Keep for now; revisit during full-outline review. -->
-
-## Where watch-only tools fit
-
-One noncustodial approach is watch-only software. It uses wallet data such as an xpub to generate receiving addresses and track payments, but it does not have the private keys needed to spend Bitcoin.
-
-<!-- Approved -->
+A service can create receiving addresses, track payments, or provide an interface without having the private keys needed to spend the Bitcoin. Watch-only tools are one example.
 
 ## The responsibility tradeoff
 
@@ -51,13 +33,9 @@ One noncustodial approach is watch-only software. It uses wallet data such as an
 - Noncustodial: control access yourself and accept the risks of security, recovery, and mistakes.
 - Encourage self-custody when someone is ready, starting with stakes they can afford—not as a purity test.
 
-<!-- Approved -->
-
 ## Refunds and disputes
 
 A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes.
-
-<!-- Approved -->
 
 ## Which one fits right now?
 
