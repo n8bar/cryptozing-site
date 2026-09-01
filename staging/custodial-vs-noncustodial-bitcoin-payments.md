@@ -9,7 +9,7 @@ date: 2026-08-28
 
 <!-- Working outline. We are reviewing one section at a time. -->
 
-So, you received some Bitcoin. Or did you?
+So, you received some Bitcoin... Or did you?
 
 ## Custody is about control
 
