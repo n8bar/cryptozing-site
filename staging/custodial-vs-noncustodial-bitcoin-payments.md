@@ -11,6 +11,8 @@ date: 2026-08-28
 
 So, you received some Bitcoin... Or did you?
 
+Say you buy Bitcoin through an exchange like Coinbase or Gemini and leave it there. Your account balance increases, but the exchange controls the Bitcoin. A similar arrangement appears when your customer pays through a processor like BitPay or Square: it receives the Bitcoin and credits your account in Bitcoin or dollars. Many people already know a version of this relationship from checking accounts. Your checking balance is a liability of the bank: a record of what it owes you, not cash held separately in your name.
+
 ## Custody is about control
 
 Custodial: a company receives and controls the Bitcoin for you. Noncustodial: it goes directly to a wallet you control.
