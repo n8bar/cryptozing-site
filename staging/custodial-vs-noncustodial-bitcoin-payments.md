@@ -37,17 +37,15 @@ A service can create receiving addresses, track payments, or provide an interfac
 
 A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes.
 
-## Which one fits right now?
+## Which tradeoff fits your situation?
 
 - Custodial may fit when support, account recovery, or built-in conversion matters more than direct control.
 - Noncustodial may fit when direct control matters and you are ready to protect access yourself.
 - The answer can change with the amount, purpose, and experience.
 
-<!-- Keep for now; revisit during full-outline review. -->
-
 ## Close
 
-- Return to one practical test: after the customer pays, can I move the Bitcoin without an institution's permission?
+- Close on the actual tradeoff: custodial and noncustodial setups place control, responsibility, and risk in different places; neither is universally right.
 - One CryptoZing sentence: it tracks invoices without taking custody; customers pay your wallet, not CryptoZing.
 
 <!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
