@@ -13,7 +13,7 @@ So, you received some Bitcoin... Or did you?
 
 ## Custody is about control
 <!-- OUTLINE: Custodial: a company receives and controls the Bitcoin for you. Noncustodial: it goes directly to a wallet you control. -->
-Say you buy Bitcoin through an exchange like Coinbase or Gemini and leave it there. Your account balance increases, but the exchange controls the Bitcoin. A similar arrangement appears when your customer pays through a processor like BitPay or Square: it receives the Bitcoin and credits your account in Bitcoin or dollars. Many people already know a version of this relationship from checking accounts. Your checking balance is a liability of the bank: a record of what it owes you, not cash held separately in your name. That is custodial Bitcoin: an institution controls the Bitcoin on your behalf.
+Say you buy Bitcoin through an exchange like Coinbase or Gemini and leave it there. Your account balance increases, but the exchange controls the Bitcoin. A similar arrangement appears when your customer pays through a processor like BitPay or Square: it receives the Bitcoin and credits your account in Bitcoin or dollars. Many people already know a version of this relationship from checking accounts. Your checking balance is a liability of the bank: a record of what it owes you, not really cash held separately in your name. That is custodial Bitcoin: an institution controls the Bitcoin on your behalf.
 
 With a noncustodial payment, you take custody yourself: the Bitcoin goes directly to a wallet you control. You might move it there from an exchange, or your customer might send it there directly. Afterward, no institution controls whether you can move it.
 
