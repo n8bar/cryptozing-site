@@ -28,6 +28,7 @@ When you receive a noncustodial payment, the Bitcoin goes to a wallet you contro
 
 ## Many services can be provided without taking custody
 <!-- OUTLINE: A service can create receiving addresses, track payments, or provide an interface without having the private keys needed to spend the Bitcoin. Watch-only tools are one example. -->
+Generating receiving addresses, creating payment requests, and tracking transactions do not require control of the Bitcoin.
 
 ## The responsibility tradeoff
 <!-- OUTLINE:
