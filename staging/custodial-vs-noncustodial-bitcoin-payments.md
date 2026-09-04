@@ -26,7 +26,7 @@ With a custodial payment, the institution receives the Bitcoin before you receiv
 
 When you receive a noncustodial payment, the Bitcoin goes to a wallet you control without an institution receiving it on your behalf. You do not have to withdraw the Bitcoin from an institution because you already control it.
 
-## A service can help without taking custody
+## Many services can be provided without taking custody
 <!-- OUTLINE: A service can create receiving addresses, track payments, or provide an interface without having the private keys needed to spend the Bitcoin. Watch-only tools are one example. -->
 
 ## The responsibility tradeoff
