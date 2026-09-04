@@ -19,7 +19,7 @@ With a noncustodial payment, you take custody yourself: the Bitcoin goes directl
 
 ## How custodial payments work
 <!-- OUTLINE: An institution receives and controls the Bitcoin on your behalf, like a bank. It may allow withdrawals, hold the Bitcoin, convert it, or pay out its value another way. -->
-With a custodial payment, the institution receives the Bitcoin before you receive an account credit or payout. Even though a Bitcoin balance appears in your account, the institution still controls whether you can spend or withdraw it.
+With a custodial payment, the institution receives the Bitcoin before you receive an account credit or payout. Even though a Bitcoin balance appears in your account, the institution still controls whether you can spend or withdraw it. The institution may also convert the Bitcoin to dollars, then send the money to your bank or make it available to spend.
 
 ## How noncustodial payments work
 <!-- OUTLINE: The customer sends Bitcoin to a wallet you control. A service may create and track the payment request, but there is no institutional balance waiting for you to withdraw. -->
