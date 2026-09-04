@@ -36,7 +36,7 @@ Generating receiving addresses, creating payment requests, and tracking transact
 - Noncustodial: control access yourself and accept the risks of security, recovery, and mistakes.
 - Encourage self-custody when someone is ready, starting with stakes they can afford—not as a purity test.
 -->
-Control comes with responsibility.
+Control comes with responsibility. With self-custody, you are responsible for protecting your wallet and keeping a usable backup.
 
 ## Refunds and disputes
 <!-- OUTLINE: A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes. -->
