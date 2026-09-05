@@ -45,7 +45,7 @@ Using a custodian can still be a reasonable choice if that's where you're comfor
 <!-- OUTLINE: A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes. -->
 Unlike a credit or debit card payment, a confirmed Bitcoin payment cannot be charged back. A custodian, however, can still adjust your account balance under its own rules and requirements. With self-custody, a refund can still be issued, it's just a new payment the recipient sends back.
 
-## Where you stand on the sovereignty staircase
+## Where do you stand on the sovereignty staircase?
 <!-- OUTLINE:
 - Custodial may fit when support, account recovery, or built-in conversion matters more than direct control.
 - Noncustodial may fit when direct control matters and you are ready to protect access yourself.
@@ -55,8 +55,12 @@ A custodial service may fit when support, account recovery, or built-in conversi
 
 ## Close
 <!-- OUTLINE:
-- Close on the actual tradeoff: custodial and noncustodial setups place control, responsibility, and risk in different places; neither is universally right.
-- One CryptoZing sentence: it tracks invoices without taking custody; customers pay your wallet, not CryptoZing.
+- Make the next action depend on where the reader stands on the sovereignty staircase.
+- Wallet software: consider a hardware wallet for better security or CryptoZing for invoicing if the reader freelances or runs a small business.
+- Exchange: install wallet software and make a comfortably sized withdrawal to it.
+- Never owned Bitcoin: consider an exchange such as Coinbase and a first Bitcoin purchase.
+- Not ready: keep studying; the staircase has a place for everyone.
 -->
+Your next step depends on where you stand on the sovereignty staircase. If you already use wallet software, that could mean a hardware wallet for better security or CryptoZing for invoicing if you freelance or run a small business.
 
 <!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
