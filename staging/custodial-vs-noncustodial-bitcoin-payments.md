@@ -51,6 +51,7 @@ Unlike a credit or debit card payment, a confirmed Bitcoin payment cannot be cha
 - Noncustodial may fit when direct control matters and you are ready to protect access yourself.
 - The answer can change with the amount, purpose, and experience.
 -->
+A custodial service may fit when support, account recovery, or built-in conversion is more important to you than direct control. Self-custody fits when direct control is preferred and you're ready to protect and secure your own access.
 
 ## Close
 <!-- OUTLINE:
