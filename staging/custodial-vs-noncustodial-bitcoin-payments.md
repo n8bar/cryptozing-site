@@ -34,10 +34,10 @@ Generating receiving addresses, creating payment requests, and tracking transact
 <!-- OUTLINE:
 - Custodial: outsource key management and accept the risk of depending on an institution for access.
 - Noncustodial: control access yourself and accept the risks of security, recovery, and mistakes.
-- An oppressive government can compel a custodian to freeze or turn over funds; self-custody removes that route.
+- An oppressive government can compel a custodian to freeze or seize funds; self-custody removes that route.
 - Encourage self-custody when someone is ready, starting with stakes they can afford—not as a purity test.
 -->
-Control comes with responsibility. With self-custody, you are responsible for protecting your wallet and keeping a usable backup. With a custodian, the institution takes on that responsibility, but you give up some control of your funds in exchange. For example, converting Bitcoin before payout may save you a step or it may take a choice out of your hands. Under an oppressive regime, a custodian can be forced to freeze or turn over your funds; self-custody removes that route.
+Control comes with responsibility. With self-custody, you are responsible for protecting your wallet and keeping a usable backup. With a custodian, the institution takes on that responsibility, but you give up some control of your funds in exchange. For example, converting Bitcoin before payout may save you a step or it may take a choice out of your hands. Under an oppressive regime, a custodian can be forced to freeze or seize your funds; self-custody removes that route.
 
 Using a custodian can still be a reasonable choice if that's where you're comfortable. Take on the responsibility you can handle, and move toward more control when you're ready. Dr. Stephanie Murphy describes that progression as a [sovereignty staircase](https://www.youtube.com/watch?v=pOVm8YK3A_0), not an on/off switch.
 
