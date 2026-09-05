@@ -45,7 +45,7 @@ Using a custodian can still be a reasonable choice if that's where you're comfor
 <!-- OUTLINE: A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes. -->
 Unlike a credit or debit card payment, a confirmed Bitcoin payment cannot be charged back. A custodian, however, can still adjust your account balance under its own rules and requirements. With self-custody, a refund can still be issued, it's just a new payment the recipient sends back.
 
-## Which tradeoff fits your situation?
+## Where you stand on the sovereignty staircase
 <!-- OUTLINE:
 - Custodial may fit when support, account recovery, or built-in conversion matters more than direct control.
 - Noncustodial may fit when direct control matters and you are ready to protect access yourself.
