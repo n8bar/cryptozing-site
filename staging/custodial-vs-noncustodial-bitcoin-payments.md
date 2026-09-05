@@ -39,6 +39,8 @@ Generating receiving addresses, creating payment requests, and tracking transact
 -->
 Control comes with responsibility. With self-custody, you are responsible for protecting your wallet and keeping a usable backup. With a custodian, the institution takes on that responsibility, but you give up some control of your funds in exchange. For example, converting Bitcoin before payout may save you a step or it may take a choice out of your hands. Under an oppressive regime, a custodian can be forced to freeze or turn over your funds; self-custody removes that route.
 
+Using a custodian can still be a reasonable choice if that's where you're comfortable. Take on the responsibility you can handle, and move toward more control when you're ready. Dr. Stephanie Murphy describes that progression as a [sovereignty staircase](https://www.youtube.com/watch?v=pOVm8YK3A_0), not an on/off switch.
+
 ## Refunds and disputes
 <!-- OUTLINE: A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes. -->
 
