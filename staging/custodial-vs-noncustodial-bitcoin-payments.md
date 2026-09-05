@@ -50,21 +50,20 @@ Unlike a credit or debit card payment, a confirmed Bitcoin payment cannot be cha
 - Custodial may fit when support, account recovery, or built-in conversion matters more than direct control.
 - Noncustodial may fit when direct control matters and you are ready to protect access yourself.
 - The answer can change with the amount, purpose, and experience.
--->
-A custodial service may fit when support, account recovery, or built-in conversion is more important to you than direct control. Self-custody fits when direct control is preferred and you're ready to protect and secure your own access. The proper fit may change with the amount, purpose, and your experience.
-
-## Close
-<!-- OUTLINE:
 - Make the next action depend on where the reader stands on the sovereignty staircase.
 - Wallet software: consider a hardware wallet for better security or CryptoZing for invoicing if the reader freelances or runs a small business.
 - Exchange: install wallet software and make a comfortably sized withdrawal to it.
 - Never owned Bitcoin: consider an exchange such as Coinbase and a first Bitcoin purchase.
 - Not ready: keep studying; the staircase has a place for everyone.
 -->
+A custodial service may fit when support, account recovery, or built-in conversion is more important to you than direct control. Self-custody fits when direct control is preferred and you're ready to protect and secure your own access. The proper fit may change with the amount, purpose, and your experience.
+
 Your next step depends on where you stand on the sovereignty staircase. If you already use wallet software, that could mean a hardware wallet for better security or CryptoZing for invoicing if you freelance or run a small business.
 
 If you've held Bitcoin on an exchange for a while but haven't used wallet software, you could [install a wallet](/learn/how-to-receive-bitcoin/) and make a comfortably sized withdrawal to it.
 
 If you've never owned Bitcoin and want an easy place to start, you could open an account with an exchange like [Coinbase](https://www.coinbase.com/how-to-buy/bitcoin) and buy a small amount there.
+
+If even that feels heavy, keep studying material like [this six-minute explanation from Andreas Antonopoulos](https://www.youtube.com/watch?v=1wDwb36GNxw). The staircase has a place for everyone.
 
 <!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
