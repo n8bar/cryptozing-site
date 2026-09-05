@@ -8,55 +8,36 @@ author: "Nate Barlow, CryptoZing"
 date: 2026-08-28
 ---
 
-<!-- Working outline. OUTLINE comments are scaffolding; visible body text includes approved prose and may include the current draft under review. -->
-
 So, you received some Bitcoin... Or did you?
 
 ## Custody is about control
-<!-- OUTLINE: Custodial: a company receives and controls the Bitcoin for you. Noncustodial: it goes directly to a wallet you control. -->
+
 Say you buy Bitcoin through an exchange like Coinbase or Gemini and leave it there. Your account balance increases, but the exchange controls the Bitcoin. A similar arrangement appears when your customer pays through a processor like BitPay or Square: it receives the Bitcoin and credits your account in Bitcoin or dollars. Many people already know a version of this relationship from checking accounts. Your checking balance is a liability of the bank: a record of what it owes you, not really cash held separately in your name. That is custodial Bitcoin: an institution controls the Bitcoin on your behalf.
 
 With a noncustodial payment, you take custody yourself: the Bitcoin goes directly to a wallet you control. You might move it there from an exchange, or your customer might send it there directly. Afterward, no institution controls whether you can move it.
 
 ## How custodial and noncustodial payments work
-<!-- OUTLINE:
-- Custodial: An institution receives and controls the Bitcoin on your behalf, like a bank. It may allow withdrawals, hold the Bitcoin, convert it, or pay out its value another way.
-- Noncustodial: The customer sends Bitcoin to a wallet you control. A service may create and track the payment request, but there is no institutional balance waiting for you to withdraw.
--->
+
 With a custodial payment, the institution receives the Bitcoin before you receive an account credit or payout. Even though a Bitcoin balance appears in your account, the institution still controls whether you can spend or withdraw it. The institution may also convert the Bitcoin to dollars, then send the money to your bank or make it available to spend.
 
 When you receive a noncustodial payment, the Bitcoin goes to a wallet you control without an institution receiving it on your behalf. You do not have to withdraw the Bitcoin from an institution because you already control it.
 
 ## Many services can be provided without taking custody
-<!-- OUTLINE: A service can create receiving addresses, track payments, or provide an interface without having the private keys needed to spend the Bitcoin. Watch-only tools are one example. -->
+
 Generating receiving addresses, creating payment requests, and tracking transactions do not require control of the Bitcoin. Watch-only software, like CryptoZing (that’s us), is one example: it has wallet information but not the private keys needed to spend the Bitcoin.
 
 ## The responsibility tradeoff
-<!-- OUTLINE:
-- Custodial: outsource key management and accept the risk of depending on an institution for access.
-- Noncustodial: control access yourself and accept the risks of security, recovery, and mistakes.
-- An oppressive government can compel a custodian to freeze or seize funds; self-custody removes that route.
-- Encourage self-custody when someone is ready, starting with stakes they can afford—not as a purity test.
--->
+
 Control comes with responsibility. With self-custody, you are responsible for protecting your wallet and keeping a usable backup. With a custodian, the institution takes on that responsibility, but you give up some control of your funds in exchange. For example, converting Bitcoin before payout may save you a step or it may take a choice out of your hands. Under an oppressive regime, a custodian can be compelled to freeze or seize your funds; self-custody removes that route.
 
 Using a custodian can still be a reasonable choice if that's where you're comfortable. Take on the responsibility you can handle, and move toward more control when you're ready. Dr. Stephanie Murphy describes that progression as a [sovereignty staircase](https://www.youtube.com/watch?v=pOVm8YK3A_0), not an on/off switch.
 
 ## Refunds and disputes
-<!-- OUTLINE: A Bitcoin transaction is not reversed like a card chargeback. A custodian may adjust balances under its own rules. A noncustodial merchant can issue a refund, but it is a new payment the merchant authorizes. -->
+
 Unlike a credit or debit card payment, a confirmed Bitcoin payment cannot be charged back. A custodian, however, can still adjust your account balance under its own rules and requirements. With self-custody, a refund can still be issued, it's just a new payment the recipient sends back.
 
 ## Where do you stand on the sovereignty staircase?
-<!-- OUTLINE:
-- Custodial may fit when support, account recovery, or built-in conversion matters more than direct control.
-- Noncustodial may fit when direct control matters and you are ready to protect access yourself.
-- The answer can change with the amount, purpose, and experience.
-- Make the next action depend on where the reader stands on the sovereignty staircase.
-- Wallet software: consider a hardware wallet for better security or CryptoZing for invoicing if the reader freelances or runs a small business.
-- Exchange: install wallet software and make a comfortably sized withdrawal to it.
-- Never owned Bitcoin: consider an exchange such as Coinbase and a first Bitcoin purchase.
-- Not ready: keep studying; the staircase has a place for everyone.
--->
+
 A custodial service may fit when support, account recovery, or built-in conversion is more important to you than direct control. Self-custody fits when direct control is preferred and you're ready to protect and secure your own access. The proper fit may change with the amount, purpose, and your experience.
 
 Your next step depends on where you stand on the sovereignty staircase. If you already use wallet software, that could mean a hardware wallet for better security or CryptoZing for invoicing if you freelance or run a small business.
@@ -66,5 +47,3 @@ If you've held Bitcoin on an exchange for a while but haven't used wallet softwa
 If you've never owned Bitcoin and want an easy place to start, you could open an account with an exchange like [Coinbase](https://www.coinbase.com/how-to-buy/bitcoin) and buy a small amount there.
 
 If even that feels heavy, keep studying material like [this six-minute explanation from Andreas Antonopoulos](https://www.youtube.com/watch?v=1wDwb36GNxw). The staircase has a place for everyone.
-
-<!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
