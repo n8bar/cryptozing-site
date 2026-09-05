@@ -24,7 +24,7 @@ When you receive a noncustodial payment, the Bitcoin goes to a wallet you contro
 
 ## Many services can be provided without taking custody
 
-Generating receiving addresses, creating payment requests, and tracking transactions do not require control of the Bitcoin. Watch-only software, like CryptoZing (that’s us), is one example: it has wallet information but not the private keys needed to spend the Bitcoin.
+Generating receiving addresses, [creating payment requests](/learn/what-is-a-bitcoin-invoice/), and tracking transactions do not require control of the Bitcoin. Watch-only software, like CryptoZing (that’s us), is one example: it has wallet information but not the private keys needed to spend the Bitcoin.
 
 ## The responsibility tradeoff
 
@@ -34,13 +34,13 @@ Using a custodian can still be a reasonable choice if that's where you're comfor
 
 ## Refunds and disputes
 
-Unlike a credit or debit card payment, a confirmed Bitcoin payment cannot be charged back. A custodian, however, can still adjust your account balance under its own rules and requirements. With self-custody, a refund can still be issued, it's just a new payment the recipient sends back.
+Unlike a credit or debit card payment, a [confirmed Bitcoin payment](/learn/bitcoin-pending-vs-confirmed-payments/) cannot be charged back. A custodian, however, can still adjust your account balance under its own rules and requirements. With self-custody, a refund can still be issued, it's just a new payment the recipient sends back.
 
 ## Where do you stand on the sovereignty staircase?
 
 A custodial service may fit when support, account recovery, or built-in conversion is more important to you than direct control. Self-custody fits when direct control is preferred and you're ready to protect and secure your own access. The proper fit may change with the amount, purpose, and your experience.
 
-Your next step depends on where you stand on the sovereignty staircase. If you already use wallet software, that could mean a hardware wallet for better security or CryptoZing for invoicing if you freelance or run a small business.
+Your next step depends on where you stand on the sovereignty staircase. If you already use wallet software, that could mean a hardware wallet for better security or [CryptoZing for invoicing](/learn/how-to-invoice-someone-in-bitcoin/) if you freelance or run a small business.
 
 If you've held Bitcoin on an exchange for a while but haven't used wallet software, you could [install a wallet](/learn/how-to-receive-bitcoin/) and make a comfortably sized withdrawal to it.
 
