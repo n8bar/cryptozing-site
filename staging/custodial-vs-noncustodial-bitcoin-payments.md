@@ -1,6 +1,7 @@
 ---
 layout: article.njk
 title: "Custodial vs. Noncustodial Bitcoin Payments"
+subtitle: "With Great Control Comes Great Responsibility"
 description: "A working outline about who controls Bitcoin after a business receives a payment."
 canonical: "https://cryptozing.app/learn/custodial-vs-noncustodial-bitcoin-payments/"
 author: "Nate Barlow, CryptoZing"
