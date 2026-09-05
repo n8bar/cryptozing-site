@@ -63,4 +63,8 @@ A custodial service may fit when support, account recovery, or built-in conversi
 -->
 Your next step depends on where you stand on the sovereignty staircase. If you already use wallet software, that could mean a hardware wallet for better security or CryptoZing for invoicing if you freelance or run a small business.
 
+If you've held Bitcoin on an exchange for a while but haven't used wallet software, you could [install a wallet](/learn/how-to-receive-bitcoin/) and make a comfortably sized withdrawal to it.
+
+If you've never owned Bitcoin and want an easy place to start, you could open an account with an exchange like [Coinbase](https://www.coinbase.com/how-to-buy/bitcoin) and buy a small amount there.
+
 <!-- Cluster links: Accepting Bitcoin guide, How to Receive Bitcoin, What Is a Bitcoin Invoice?, and BTCPay Server Alternatives. -->
