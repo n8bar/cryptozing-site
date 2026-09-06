@@ -1,4 +1,4 @@
-name: Deploy CryptoZing.app
+name: Deploy CryptoZing.app (Pages, recovery only)
 
 on:
   push:
@@ -52,11 +52,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Notify IndexNow
-        run: |
-          urls=$(grep -oP '(?<=<loc>)[^<]+' sitemap.xml)
-          for url in $urls; do
-            curl -s -o /dev/null -w "%{http_code} $url\n" \
-              "https://api.indexnow.org/indexnow?url=${url}&key=465536a63a3c14ac146077111999e458"
-          done
