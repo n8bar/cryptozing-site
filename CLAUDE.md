@@ -5,4 +5,4 @@ The CryptoZing content site (cryptozing.app articles), split out of the app repo
 - Do not pull Laravel routes, Blade components, app config, or `vendor/` references into files here.
 - Authoring is plain HTML / Markdown; `_layouts/` and `learn/` follow the Eleventy build (`npx @11ty/eleventy`, output in `_site/`).
 - Staging copy under `staging/` should be edited before the published copy (see memory: "Update Staging Copy First").
-- Publishing: GitHub Pages deploys from the `pages.yml` workflow on push to `main` (until MS21 retires Pages); `container.yml` publishes the nginx image to GHCR for the production box.
+- Publishing: GitHub Pages deploys from the `pages.yml` workflow on push to `main` (until MS21 retires Pages); `container.yml` publishes the nginx image to GHCR for the production box. `scripts/publish-vps.sh` rolls the box onto a published image and notifies IndexNow; it activates at M21.2 §3 and must not run before then.
