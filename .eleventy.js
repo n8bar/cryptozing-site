@@ -1,6 +1,9 @@
 const isCI = process.env.CI === 'true';
 
 module.exports = function (eleventyConfig) {
+  // Full preview reloads let staging articles restore the paragraph being read.
+  eleventyConfig.setServerOptions({ domDiff: false });
+
   eleventyConfig.addFilter("date", function (value, format) {
     const d = new Date(value);
     const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];

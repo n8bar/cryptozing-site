@@ -8,3 +8,6 @@ layout: default.njk
   {% if author or date %}<p class="article-meta">{% if author %}By {{ author }}{% endif %}{% if author and date %} · {% endif %}{% if date %}{{ date | date("%B %d, %Y") }}{% endif %}</p>{% endif %}
   {{ content | safe }}
 </main>
+{% if eleventy.env.runMode == "serve" and page.url.startsWith("/staging/") %}
+<script>{% include "preview-scroll.js" %}</script>
+{% endif %}
